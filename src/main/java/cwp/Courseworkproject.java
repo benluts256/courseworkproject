@@ -13,9 +13,9 @@ public class Courseworkproject {
     public static void main(String[] args) {
         System.out.println("--- Demonstrating User Abstraction in UTMS ---");
 
-        // Creating instances of the concrete user types
+        
         Student student1 = new Student("U001", "Benon Lutaaya", "benonlutaaya@university.com",
-                                     "0712345678", "S2023001", "Bachelor in Software Engineering", 2024);
+                                     "0712345678", "vubsf2407", "Bachelor in Software Engineering", 2024);
 
         Lecturer lecturer1 = new Lecturer("U002", "Dr. Ben Johnson", "ben.johnson@university.com",
                                          "0798765432", "F2023005", "Electrical Engineering");
